@@ -1,0 +1,32 @@
+{
+  "stickers" : [
+    {
+      "filename" : "huh.sticker"
+    },
+    {
+      "filename" : "exhausted1.sticker"
+    },
+    {
+      "filename" : "what.sticker"
+    },
+    {
+      "filename" : "LOL.sticker"
+    },
+    {
+      "filename" : "ugh.sticker"
+    },
+    {
+      "filename" : "omg.sticker"
+    },
+    {
+      "filename" : "Really.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
